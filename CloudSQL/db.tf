@@ -1,3 +1,0 @@
-resource "db" "name" {
-  
-}
